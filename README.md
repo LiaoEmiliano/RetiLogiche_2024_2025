@@ -1,8 +1,6 @@
 # Reti Logiche — Progetto 2024/2025
 
 Progetto del corso **Reti Logiche** (Politecnico di Milano, A.Y. 2024/2025): implementazione in VHDL di un acceleratore hardware per il filtraggio di segnali digitali su memoria esterna.
-
-**Matricola:** 10889441  
 **Valutazione:** 30/30
 
 ## Contenuto del repository
